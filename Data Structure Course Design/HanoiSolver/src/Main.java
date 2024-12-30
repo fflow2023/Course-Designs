@@ -7,7 +7,7 @@ import javax.swing.JFrame;
  * 该类使用SwingUtilities.invokeLater来确保GUI的创建和更新在事件调度线程上执行，
  * 这是Swing编程中的一个最佳实践，以避免线程安全问题。
  * 创建日期：2024/12/28
- * 作者：ZhangJinghao
+ * 作者：LYQ(FFlow2023)
  */
 public class Main {
     public static void main(String[] args) {
